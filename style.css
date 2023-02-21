@@ -24,7 +24,13 @@
     color: #0A66C3;
     font-size: 1.6rem;
 }
+.container h2 i{
 
+    font-size: 1.8rem;
+
+    padding-left: .1rem;
+
+}
 .text p{
     font-size: .8rem;
     padding-top: 0.3rem;
